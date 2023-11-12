@@ -1,0 +1,9 @@
+
+ 0 touch .testing
+   1 ls -al
+   2 cp .testing /usr/bin
+   3 ls -al /usr/bin
+   4 mv /opt/temu /root/my_user
+   5 rm -r /opt
+   6 ls -s
+   7 history
